@@ -1,0 +1,71 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Tandoori Flame,Jaipur,10:00 AM - 8:00 PM
+2,Tandoori Treat,Lucknow,7:00 AM - 8:00 PM
+3,Masala Diner,Chennai,11:00 AM - 8:00 PM
+4,Desi Stop,Pune,10:00 AM - 11:00 PM
+5,Mountain Kitchen,Hyderabad,7:00 AM - 11:00 PM
+6,Valley Express,Delhi,8:00 AM - 10:00 PM
+7,Curry Point,Mumbai,7:00 AM - 9:00 PM
+8,Tandoori Cafe,Pune,9:00 AM - 8:00 PM
+9,Valley Villa,Mumbai,7:00 AM - 10:00 PM
+10,Queen Palace,Pune,8:00 AM - 9:00 PM
+11,Garden Food Court,Pune,11:00 AM - 9:00 PM
+12,Magic Palace,Bangalore,10:00 AM - 8:00 PM
+13,Masala Express,Lucknow,9:00 AM - 9:00 PM
+14,Magic Bistro,Lucknow,9:00 AM - 10:00 PM
+15,Blue Flame,Hyderabad,8:00 AM - 8:00 PM
+16,Blue Treat,Bangalore,9:00 AM - 9:00 PM
+17,Desi Diner,Delhi,8:00 AM - 10:00 PM
+18,Delicious Hut,Mumbai,9:00 AM - 8:00 PM
+19,Curry Delight,Kolkata,10:00 AM - 10:00 PM
+20,Red Corner,Lucknow,10:00 AM - 9:00 PM
+21,Valley Flame,Pune,7:00 AM - 10:00 PM
+22,Heritage Corner,Jaipur,10:00 AM - 10:00 PM
+23,Classic Plaza,Hyderabad,11:00 AM - 9:00 PM
+24,Curry Stop,Mumbai,10:00 AM - 9:00 PM
+25,Mountain Corner,Ahmedabad,9:00 AM - 8:00 PM
+26,Cafe Flame,Ahmedabad,7:00 AM - 10:00 PM
+27,Village Heaven,Delhi,9:00 AM - 11:00 PM
+28,Spice Express,Ahmedabad,11:00 AM - 9:00 PM
+29,Heritage Food Court,Bangalore,10:00 AM - 11:00 PM
+30,Queen Villa,Ahmedabad,7:00 AM - 9:00 PM
+31,Cafe Cafe,Kolkata,10:00 AM - 8:00 PM
+32,Ocean Delight,Pune,10:00 AM - 9:00 PM
+33,Heritage Garden,Kolkata,11:00 AM - 10:00 PM
+34,Street Heaven,Kolkata,10:00 AM - 11:00 PM
+35,Urban Bistro,Ahmedabad,10:00 AM - 9:00 PM
+36,Green Treat,Kolkata,10:00 AM - 8:00 PM
+37,Spice Plaza,Bangalore,10:00 AM - 8:00 PM
+38,Curry Flame,Bangalore,10:00 AM - 10:00 PM
+39,Fusion Diner,Kolkata,9:00 AM - 9:00 PM
+40,Queen Bistro,Lucknow,10:00 AM - 8:00 PM
+41,Biryani Palace,Ahmedabad,7:00 AM - 8:00 PM
+42,Magic Stop,Lucknow,8:00 AM - 9:00 PM
+43,King Palace,Kolkata,8:00 AM - 9:00 PM
+44,Urban Diner,Lucknow,9:00 AM - 9:00 PM
+45,King Diner,Pune,7:00 AM - 10:00 PM
+46,Queen Flame,Chennai,9:00 AM - 9:00 PM
+47,Taste House,Kolkata,9:00 AM - 8:00 PM
+48,Valley Delight,Kolkata,11:00 AM - 8:00 PM
+49,Urban Flame,Pune,10:00 AM - 11:00 PM
+50,Street Flame,Jaipur,9:00 AM - 10:00 PM
+51,Urban Bazaar,Ahmedabad,11:00 AM - 11:00 PM
+52,Curry Garden,Delhi,10:00 AM - 10:00 PM
+53,Grand Food Court,Bangalore,10:00 AM - 8:00 PM
+54,Street Food Court,Lucknow,9:00 AM - 9:00 PM
+55,Magic Corner,Lucknow,11:00 AM - 9:00 PM
+56,Fusion Delight,Lucknow,8:00 AM - 11:00 PM
+57,Delicious Food Court,Ahmedabad,8:00 AM - 11:00 PM
+58,Delicious Bazaar,Lucknow,7:00 AM - 10:00 PM
+59,Blue Palace,Lucknow,8:00 AM - 11:00 PM
+60,Ocean Palace,Mumbai,8:00 AM - 10:00 PM
+61,Tandoori Corner,Chennai,11:00 AM - 11:00 PM
+62,Red Stop,Jaipur,9:00 AM - 10:00 PM
+63,Chili Express,Chennai,10:00 AM - 10:00 PM
+64,Flavors Hut,Delhi,11:00 AM - 11:00 PM
+65,Masala Garden,Bangalore,9:00 AM - 9:00 PM
+66,Valley Bistro,Hyderabad,9:00 AM - 9:00 PM
+67,Queen Hut,Mumbai,11:00 AM - 10:00 PM
+68,Royal House,Kolkata,8:00 AM - 9:00 PM
+69,Spice Flame,Hyderabad,7:00 AM - 8:00 PM
+70,Valley Palace,Mumbai,11:00 AM - 11:00 PM
