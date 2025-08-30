@@ -7,6 +7,7 @@ and data-driven insights for food delivery operations.
 
 This project showcases a complete food delivery ecosystem with realistic data and complex business analytics.
 It demonstrates proficiency in SQL, data modeling, business intelligence, and performance optimization.
+![ERD Design](erd_design.png)
 
 ### 🎯 Key Features
 
