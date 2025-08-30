@@ -195,8 +195,8 @@ Feel free to fork this project and submit pull requests for improvements. Areas 
 
 **Your Name** - [balram.cpt@gmail.com]
 
-Project Link: [https://github.com/balrampandey/food-delivery-analytics
+Project Link: [https://github.com/balrampandey/zomato_sql_project
 
 ---
 
-*This project showcases advanced SQL analytics and business intelligence capabilities for a food delivery platform. All data is synthetically generated for demonstration purposes.*
+
