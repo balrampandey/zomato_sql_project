@@ -72,15 +72,16 @@ orders (1:1) → deliveries (N:1) → riders
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/food-delivery-analytics.git
-cd food-delivery-analytics
+git clone https://github.com/balrampandey/zomato_sql_project.git
+
+zomato_sql_project
 ```
 
 2. **Import the dataset**
 ```sql
 -- Create database
-CREATE DATABASE food_delivery_analytics;
-USE food_delivery_analytics;
+CREATE DATABASE zomato_db;
+USE zomato_db;
 
 -- Import CSV files (adjust path as needed)
 LOAD DATA INFILE 'restaurants.csv' INTO TABLE restaurants;
