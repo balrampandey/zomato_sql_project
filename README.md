@@ -194,7 +194,8 @@ Feel free to fork this project and submit pull requests for improvements. Areas 
 
 ## 📞 Contact
 
-**Your Name** - [balram.cpt@gmail.com]
+**Your Name** - Balram Pandey
+**Email**[balram.cpt@gmail.com]
 
 Project Link: [https://github.com/balrampandey/zomato_sql_project
 
